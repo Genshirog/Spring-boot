@@ -4,13 +4,13 @@
 - Teamwork
 - Communication
 
-### Tech Stacks
-## Frontend
+## Tech Stacks
+### Frontend
 - **HTML/CSS**
 - **JavaScript**
 - **React/Vue/Svelte**
 - **Figma**
-## Backend
+### Backend
 - **Java**
 - **Spring Framework**
 - **MySQL**
